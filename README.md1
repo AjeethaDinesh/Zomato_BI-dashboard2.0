@@ -1,0 +1,149 @@
+Zomato Data Manipulation & Visualization Dashboard (Power BI)
+📌 Executive Summary
+
+This project presents a comprehensive Power BI dashboard built using a global restaurant dataset. It provides insights into restaurant distribution, cuisine diversity, rating patterns, pricing behavior, and service attributes such as online delivery and table booking.
+
+Designed as a portfolio-grade analytics project, it demonstrates end-to-end business intelligence capabilities including data preparation, modeling, DAX calculations, interactive visualization, and AI-assisted UI theming.
+
+🔍 Problem Statement
+
+Food delivery platforms such as Zomato manage data for thousands of restaurants across multiple countries. Business stakeholders require a unified dashboard to understand:
+
+Global restaurant distribution
+
+Pricing and customer rating trends
+
+Cuisine popularity by region
+
+Adoption of online delivery and table booking
+
+City-level concentration of restaurants
+
+This dashboard addresses these requirements through an interactive and visually consistent analytics solution.
+
+🎯 Project Objectives
+
+Visualize restaurant presence across continents, countries, and cities
+
+Analyze pricing trends using average cost metrics
+
+Compare customer satisfaction using rating color categories
+
+Summarize cuisine-level restaurant distribution
+
+Highlight service attributes (online delivery & table booking)
+
+Apply a professional UI using an AI-generated JSON theme
+
+🛠️ Technical Skills Demonstrated
+Power BI & Data Modeling
+
+Data import and validation
+
+Power Query transformations
+
+Data modeling (relationships, hierarchies, categorization)
+
+DAX measures for KPIs
+
+Interactive visuals (maps, slicers, KPI cards, charts)
+
+Design & UI/UX
+
+Custom color palette
+
+AI-generated JSON theme
+
+Gradient backgrounds and card styling
+
+Font hierarchy and layout optimization
+
+Analytics & BI Concepts
+
+Exploratory Data Analysis (EDA)
+
+Rating-based categorization
+
+Geographic segmentation (continent, country, city)
+
+Aggregation and filtering logic
+
+📐 Data Preparation & Transformation Workflow
+
+All transformations were performed in Power Query, including:
+
+Standardizing column names
+
+Removing nulls and duplicates
+
+Cleaning city and country fields
+
+Applying appropriate data types
+
+Categorizing restaurants by rating color
+
+Preparing data for map visualizations
+
+Note: No SQL was used in this version. The project is implemented entirely using Power BI and DAX.
+
+📊 Dashboard Highlights
+Key KPIs
+
+Average Cost
+
+Average Rating
+
+Total Restaurant Count
+
+Visualizations
+
+Global map showing restaurant distribution
+
+Cuisine distribution treemap
+
+Restaurant count by city
+
+Rating color analysis (Green, Yellow, Orange, Red)
+
+Online delivery availability
+
+Table booking availability
+
+Filters
+
+Continent
+
+Country
+
+City
+
+🎨 AI-Generated Theme (JSON Format)
+
+The dashboard’s background colors, gradient styling, card layout, and font sizing were created using an AI-generated Power BI JSON theme.
+This ensures a consistent, modern, and visually intuitive design suitable for executive-level dashboards.
+
+📸 Dashboard Preview
+
+📥 How to Use This Repository
+
+Download the .pbix file
+
+Open it in Power BI Desktop
+
+Review Power Query transformations and DAX measures
+
+Interact with filters and geographic visuals
+
+Customize the theme or extend the data model
+
+⭐ Portfolio Value
+
+This project demonstrates real-world skills relevant to:
+
+Power BI Developer
+
+Data Analyst
+
+Business Intelligence Analyst
+
+It highlights the ability to convert raw data into meaningful insights using professional analytics and design standards.
